@@ -78,7 +78,7 @@ var favHobby : String = "Hockey"
  */
 // Answer Question 4 below
 
-print(")
+print("Coders are immutable/constants for many reasons it saves rrom in the processing power or it guves them a check in there code if they end up not getting it later")
 /*:
  ### Question 5
  
@@ -88,6 +88,11 @@ print(")
  
  */
 // Answer Question 5 below
+
+var randomDemand = 1_000_000
+
+
+
 
 /*:
  ### Question 6
