@@ -130,8 +130,7 @@ print("the error shown is a syntax because the code is trying to assign one data
  */
 // Answer Question 7 below
 
-
-
+print("Swift is considered a type-safe language. Type-safe languages encourage or require you to be clear about the types of values your code can work with. For example, if part of your code expects an Int, you can't pass it a Double or a String")
 
 //: [Next](@next)
 
