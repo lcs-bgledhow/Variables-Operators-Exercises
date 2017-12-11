@@ -36,6 +36,11 @@
  */
 // Answer Question 1 below
 
+let studentFirst =  "Ben"
+let studnetLast = "Gledhow"
+let studentCurrentGrade = 91
+let studentNovemeberGrade = 87
+
 /*:
  ### Question 2
  
@@ -48,6 +53,10 @@
  */
 // Answer Question 2 below
 
+let myAge : Int = 16
+let otherAge : Double = 40.0
+let averageAge : Double = (Double(myAge) + otherAge) / 2
+
 
 /*:
  ### Question 3
@@ -57,6 +66,9 @@
 // Answer Question 3 below
 
 
+//I used variable because I feel that a persons hobby will not change in a short amount of time
+
+var favHobby : String = "Hockey"
 /*:
  ### Question 4
  
@@ -66,7 +78,7 @@
  */
 // Answer Question 4 below
 
-
+print(")
 /*:
  ### Question 5
  
