@@ -114,6 +114,12 @@ var randomDemand = 1_000_000
  */
 // Answer Question 6 below
 
+var year = 2017
+let test = "Ben"
+year = test
+print("the error shown is a syntax because the code is trying to assign one data type to another")
+
+
 
 /*:
  ### Question 7
