@@ -37,8 +37,8 @@
 // Answer Question 1 below
 
 let studentFirst =  "Ben"
-let studnetLast = "Gledhow"
-let studentCurrentGrade = 91
+let studnetLast = "Gledhow
+var studentCurrentGrade = 91
 let studentNovemeberGrade = 87
 
 /*:
