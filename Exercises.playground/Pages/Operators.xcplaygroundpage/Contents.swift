@@ -44,6 +44,18 @@
  */
 // Answer Question 1 below
 
+var partTimeJobEarnings = 0.0
+// Part 1 - Snow Shovelling
+partTimeJobEarnings = 22.50 * 0.5
+// Part 2 - BAbysitting tryout
+partTimeJobEarnings += 20
+// Part 3 - Bought some snacks
+partTimeJobEarnings /= 2
+// Part 4 - Babysitting
+partTimeJobEarnings += 25 * 4
+// Part 5 - Nice Meal
+partTimeJobEarnings -= 50 
+
 
 /*:
 ### Question 2
