@@ -66,9 +66,10 @@ let averageAge : Double = (Double(myAge) + otherAge) / 2
 // Answer Question 3 below
 
 
-//I used variable because I feel that a persons hobby will not change in a short amount of time
+//I used a constant because I feel that a persons hobby will not change in a short amount of time
 
-var favHobby : String = "Hockey"
+
+let favHobby : String = "Hockey"
 /*:
  ### Question 4
  
